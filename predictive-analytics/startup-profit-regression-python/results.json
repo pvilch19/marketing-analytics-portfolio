@@ -1,0 +1,43 @@
+{
+  "rows": 50,
+  "train_rows": 35,
+  "test_rows": 15,
+  "seed": 42,
+  "training_r2": 0.9511471170962384,
+  "evaluation": [
+    {
+      "Model": "Training-mean baseline",
+      "Test R2": -0.004772888336374237,
+      "MAE": 30301.28754285714,
+      "MSE": 1413716446.334403,
+      "RMSE": 37599.42082445424
+    },
+    {
+      "Model": "Multiple linear regression",
+      "Test R2": 0.9397108063368201,
+      "MAE": 7395.433531431918,
+      "MSE": 84826955.0335873,
+      "RMSE": 9210.154995090328
+    }
+  ],
+  "ols_specification_comparison": [
+    {
+      "Specification": "Full specification",
+      "In-sample R2": 0.9507524843355148,
+      "Adjusted R2": 0.945156175737278,
+      "Observations": 50
+    },
+    {
+      "Specification": "Without marketing spend",
+      "In-sample R2": 0.9479799298023537,
+      "Adjusted R2": 0.9433559235625629,
+      "Observations": 50
+    },
+    {
+      "Specification": "Without R&D spend",
+      "In-sample R2": 0.6131075019799208,
+      "Adjusted R2": 0.5787170577114693,
+      "Observations": 50
+    }
+  ]
+}

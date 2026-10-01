@@ -1,0 +1,135 @@
+{
+  "rows": 4650,
+  "unique_outlets": 5,
+  "zero_visibility_rows": 292,
+  "row_level_visibility_sales_correlation": -0.0096444356725182,
+  "category_mean_visibility_sales_correlation": 0.5378898413753381,
+  "outlet_groups": [
+    {
+      "Outlet_Type": "Supermarket Type1",
+      "Outlet_Location_Type": "Tier 1",
+      "observations": 1860,
+      "outlets": 2,
+      "mean_sales": 2313.0994507526884
+    },
+    {
+      "Outlet_Type": "Supermarket Type1",
+      "Outlet_Location_Type": "Tier 2",
+      "observations": 930,
+      "outlets": 1,
+      "mean_sales": 2438.841866021505
+    },
+    {
+      "Outlet_Type": "Supermarket Type1",
+      "Outlet_Location_Type": "Tier 3",
+      "observations": 932,
+      "outlets": 1,
+      "mean_sales": 2298.995255579399
+    },
+    {
+      "Outlet_Type": "Supermarket Type2",
+      "Outlet_Location_Type": "Tier 3",
+      "observations": 928,
+      "outlets": 1,
+      "mean_sales": 1995.498739224138
+    }
+  ],
+  "category_means": [
+    {
+      "Item_Type": "Baking Goods",
+      "observations": 351,
+      "mean_visibility": 0.0607332088005698,
+      "mean_sales": 2046.7981868945867
+    },
+    {
+      "Item_Type": "Breads",
+      "observations": 132,
+      "mean_visibility": 0.06196981262121212,
+      "mean_sales": 2389.702474242424
+    },
+    {
+      "Item_Type": "Breakfast",
+      "observations": 58,
+      "mean_visibility": 0.0746108377586207,
+      "mean_sales": 2203.1666379310345
+    },
+    {
+      "Item_Type": "Canned",
+      "observations": 361,
+      "mean_visibility": 0.06386255179224377,
+      "mean_sales": 2205.210750138504
+    },
+    {
+      "Item_Type": "Dairy",
+      "observations": 380,
+      "mean_visibility": 0.06670869954473684,
+      "mean_sales": 2337.420555789474
+    },
+    {
+      "Item_Type": "Frozen Foods",
+      "observations": 477,
+      "mean_visibility": 0.061807921077568134,
+      "mean_sales": 2222.01188721174
+    },
+    {
+      "Item_Type": "Fruits and Vegetables",
+      "observations": 670,
+      "mean_visibility": 0.06158882388059702,
+      "mean_sales": 2312.703005373134
+    },
+    {
+      "Item_Type": "Hard Drinks",
+      "observations": 117,
+      "mean_visibility": 0.05952878064102564,
+      "mean_sales": 2233.275299145299
+    },
+    {
+      "Item_Type": "Health and Hygiene",
+      "observations": 277,
+      "mean_visibility": 0.050321029083032494,
+      "mean_sales": 2138.0712815884476
+    },
+    {
+      "Item_Type": "Household",
+      "observations": 498,
+      "mean_visibility": 0.056250713355421686,
+      "mean_sales": 2386.5547522088355
+    },
+    {
+      "Item_Type": "Meat",
+      "observations": 221,
+      "mean_visibility": 0.0580878528959276,
+      "mean_sales": 2250.0967076923075
+    },
+    {
+      "Item_Type": "Others",
+      "observations": 91,
+      "mean_visibility": 0.05055673521978022,
+      "mean_sales": 2194.191457142857
+    },
+    {
+      "Item_Type": "Seafood",
+      "observations": 33,
+      "mean_visibility": 0.07606339472727273,
+      "mean_sales": 2782.23696969697
+    },
+    {
+      "Item_Type": "Snack Foods",
+      "observations": 656,
+      "mean_visibility": 0.06193424335518293,
+      "mean_sales": 2391.14660945122
+    },
+    {
+      "Item_Type": "Soft Drinks",
+      "observations": 241,
+      "mean_visibility": 0.058806151041493775,
+      "mean_sales": 2050.338006639004
+    },
+    {
+      "Item_Type": "Starchy Foods",
+      "observations": 87,
+      "mean_visibility": 0.06455030319540231,
+      "mean_sales": 2483.7783793103445
+    }
+  ]
+}

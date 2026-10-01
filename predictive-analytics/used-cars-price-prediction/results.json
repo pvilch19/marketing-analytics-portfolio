@@ -1,0 +1,40 @@
+{
+  "original_rows": 6019,
+  "rows_after_cleaning": 6017,
+  "train_rows": 4813,
+  "test_rows": 1204,
+  "random_state": 42,
+  "age_reference_year": 2019,
+  "invalid_specifications": {
+    "Mileage": 68,
+    "Engine": 0,
+    "Power": 0,
+    "Seats": 1
+  },
+  "models": [
+    {
+      "Model": "Training-mean baseline",
+      "R2": -0.00010765877475216179,
+      "MAE": 7230.03336409627,
+      "MSE": 140551750.24239337,
+      "RMSE": 11855.452342377888,
+      "Negative predictions": 0
+    },
+    {
+      "Model": "Linear regression",
+      "R2": 0.649508582661842,
+      "MAE": 3847.327103104639,
+      "MSE": 49256879.21655068,
+      "RMSE": 7018.324530580691,
+      "Negative predictions": 128
+    },
+    {
+      "Model": "Random forest",
+      "R2": 0.8329488299561274,
+      "MAE": 1783.5547990510036,
+      "MSE": 23476806.84544589,
+      "RMSE": 4845.287075648448,
+      "Negative predictions": 0
+    }
+  ]
+}

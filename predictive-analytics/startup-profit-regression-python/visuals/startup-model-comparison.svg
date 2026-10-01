@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="381.6pt" viewBox="0 0 864 381.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 381.6 
+L 864 381.6 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f6f8fb"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 30.24 188.748 
+L 351.648 188.748 
+L 351.648 161.748 
+L 30.24 161.748 
+z
+" style="fill: #163d55; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="62.3808" y="178.105852" transform="rotate(-0 62.3808 178.105852)">Model</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 351.648 188.748 
+L 512.352 188.748 
+L 512.352 161.748 
+L 351.648 161.748 
+z
+" style="fill: #163d55; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="367.7184" y="178.105852" transform="rotate(-0 367.7184 178.105852)">Test R-squared</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 512.352 188.748 
+L 673.056 188.748 
+L 673.056 161.748 
+L 512.352 161.748 
+z
+" style="fill: #163d55; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="528.4224" y="178.105422" transform="rotate(-0 528.4224 178.105422)">MAE</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 673.056 188.748 
+L 833.76 188.748 
+L 833.76 161.748 
+L 673.056 161.748 
+z
+" style="fill: #163d55; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="689.1264" y="178.105422" transform="rotate(-0 689.1264 178.105422)">RMSE</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 30.24 215.748 
+L 351.648 215.748 
+L 351.648 188.748 
+L 30.24 188.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="62.3808" y="205.105852" transform="rotate(-0 62.3808 205.105852)">Training-mean baseline</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 351.648 215.748 
+L 512.352 215.748 
+L 512.352 188.748 
+L 351.648 188.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="367.7184" y="205.105422" transform="rotate(-0 367.7184 205.105422)">-0.0048</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 512.352 215.748 
+L 673.056 215.748 
+L 673.056 188.748 
+L 512.352 188.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="528.4224" y="205.105422" transform="rotate(-0 528.4224 205.105422)">30,301.29</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 673.056 215.748 
+L 833.76 215.748 
+L 833.76 188.748 
+L 673.056 188.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="689.1264" y="205.105422" transform="rotate(-0 689.1264 205.105422)">37,599.42</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 30.24 242.748 
+L 351.648 242.748 
+L 351.648 215.748 
+L 30.24 215.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="62.3808" y="232.105852" transform="rotate(-0 62.3808 232.105852)">Multiple linear regression</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 351.648 242.748 
+L 512.352 242.748 
+L 512.352 215.748 
+L 351.648 215.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="367.7184" y="232.105422" transform="rotate(-0 367.7184 232.105422)">0.9397</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 512.352 242.748 
+L 673.056 242.748 
+L 673.056 215.748 
+L 512.352 215.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="528.4224" y="232.105422" transform="rotate(-0 528.4224 232.105422)">7,395.43</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 673.056 242.748 
+L 833.76 242.748 
+L 833.76 215.748 
+L 673.056 215.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="689.1264" y="232.105422" transform="rotate(-0 689.1264 232.105422)">9,210.15</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14354b" x="30.24" y="34.344" transform="rotate(-0 30.24 34.344)">Startup profit | holdout model comparison</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #425466" x="30.24" y="64.872" transform="rotate(-0 30.24 64.872)">Same 15-record holdout for both models; source profit units.</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #425466" x="30.24" y="347.256" transform="rotate(-0 30.24 347.256)">Saved portfolio results; no new model run. Fifty observations do not establish causal spending returns.</text>
+  </g>
+ </g>
+</svg>

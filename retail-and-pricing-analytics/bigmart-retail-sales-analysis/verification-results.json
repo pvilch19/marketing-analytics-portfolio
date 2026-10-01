@@ -1,0 +1,15 @@
+{
+  "original_rows": 4650,
+  "original_columns": 12,
+  "cleaned_rows": 4650,
+  "cleaned_columns": 14,
+  "original_columns_preserved": true,
+  "cleaned_missing_cells": 0,
+  "fat_labels_match_expected": true,
+  "outlet_age_matches_2026_reference": true,
+  "zero_visibility_rows": 292,
+  "sales_mean": 2272.0374886021505,
+  "sales_median": 1939.8083000000001,
+  "sales_min": 69.2432,
+  "sales_max": 10256.649
+}

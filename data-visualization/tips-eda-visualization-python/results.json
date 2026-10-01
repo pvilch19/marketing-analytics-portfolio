@@ -1,0 +1,34 @@
+{
+  "rows": 244,
+  "bill_tip_correlation": 0.6757341092113645,
+  "median_bill": 17.795,
+  "median_tip": 2.9,
+  "mean_bill": 19.78594262295082,
+  "mean_tip": 2.99827868852459,
+  "daily": [
+    {
+      "day": "Fri",
+      "observations": 19,
+      "mean_bill": 17.15157894736842,
+      "mean_tip": 2.734736842105263
+    },
+    {
+      "day": "Sat",
+      "observations": 87,
+      "mean_bill": 20.44137931034483,
+      "mean_tip": 2.993103448275862
+    },
+    {
+      "day": "Sun",
+      "observations": 76,
+      "mean_bill": 21.41,
+      "mean_tip": 3.2551315789473683
+    },
+    {
+      "day": "Thur",
+      "observations": 62,
+      "mean_bill": 17.682741935483868,
+      "mean_tip": 2.7714516129032254
+    }
+  ]
+}

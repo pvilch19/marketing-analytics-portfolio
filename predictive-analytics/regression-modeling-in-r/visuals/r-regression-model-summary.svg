@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="381.6pt" viewBox="0 0 864 381.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 381.6 
+L 864 381.6 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f6f8fb"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 30.24 161.748 
+L 351.648 161.748 
+L 351.648 134.748 
+L 30.24 134.748 
+z
+" style="fill: #163d55; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="62.3808" y="151.105852" transform="rotate(-0 62.3808 151.105852)">Model</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 351.648 161.748 
+L 472.176 161.748 
+L 472.176 134.748 
+L 351.648 134.748 
+z
+" style="fill: #163d55; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="363.7008" y="151.105852" transform="rotate(-0 363.7008 151.105852)">Sample</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 472.176 161.748 
+L 833.76 161.748 
+L 833.76 134.748 
+L 472.176 134.748 
+z
+" style="fill: #163d55; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="508.3344" y="151.105852" transform="rotate(-0 508.3344 151.105852)">Key result</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 30.24 188.748 
+L 351.648 188.748 
+L 351.648 161.748 
+L 30.24 161.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="62.3808" y="178.105852" transform="rotate(-0 62.3808 178.105852)">Salary linear</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 351.648 188.748 
+L 472.176 188.748 
+L 472.176 161.748 
+L 351.648 161.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="363.7008" y="178.105422" transform="rotate(-0 363.7008 178.105422)">30</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 472.176 188.748 
+L 833.76 188.748 
+L 833.76 161.748 
+L 472.176 161.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="508.3344" y="178.105422" transform="rotate(-0 508.3344 178.105422)">R² = 0.9570</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 30.24 215.748 
+L 351.648 215.748 
+L 351.648 188.748 
+L 30.24 188.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="62.3808" y="205.105852" transform="rotate(-0 62.3808 205.105852)">Advertising linear</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 351.648 215.748 
+L 472.176 215.748 
+L 472.176 188.748 
+L 351.648 188.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="363.7008" y="205.105422" transform="rotate(-0 363.7008 205.105422)">10</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 472.176 215.748 
+L 833.76 215.748 
+L 833.76 188.748 
+L 472.176 188.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="508.3344" y="205.105422" transform="rotate(-0 508.3344 205.105422)">R² = 0.6691</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 30.24 242.748 
+L 351.648 242.748 
+L 351.648 215.748 
+L 30.24 215.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="62.3808" y="232.105852" transform="rotate(-0 62.3808 232.105852)">Advertising quadratic</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 351.648 242.748 
+L 472.176 242.748 
+L 472.176 215.748 
+L 351.648 215.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="363.7008" y="232.105422" transform="rotate(-0 363.7008 232.105422)">10</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 472.176 242.748 
+L 833.76 242.748 
+L 833.76 215.748 
+L 472.176 215.748 
+z
+" style="fill: #e9f0f5; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="508.3344" y="232.105422" transform="rotate(-0 508.3344 232.105422)">R² = 0.9113</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 30.24 269.748 
+L 351.648 269.748 
+L 351.648 242.748 
+L 30.24 242.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="62.3808" y="259.105852" transform="rotate(-0 62.3808 259.105852)">Awards Poisson</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 351.648 269.748 
+L 472.176 269.748 
+L 472.176 242.748 
+L 351.648 242.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="363.7008" y="259.105422" transform="rotate(-0 363.7008 259.105422)">200</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 472.176 269.748 
+L 833.76 269.748 
+L 833.76 242.748 
+L 472.176 242.748 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183446" x="508.3344" y="259.105852" transform="rotate(-0 508.3344 259.105852)">Count ratio per score point = 1.07267</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #14354b" x="30.24" y="34.344" transform="rotate(-0 30.24 34.344)">Regression in R | model interpretation</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #425466" x="30.24" y="64.872" transform="rotate(-0 30.24 64.872)">Saved results from executed R models; all fits use the full teaching samples.</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #425466" transform="translate(30.24 332.256)">No holdout validation. The quadratic turning point maximizes fitted purchases, not profit.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #425466" transform="translate(30.24 347.256)">Poisson ratios describe expected counts conditional on program, not probabilities.</text>
+  </g>
+ </g>
+</svg>
