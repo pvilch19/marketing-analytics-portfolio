@@ -53,17 +53,15 @@ No measured revenue lift, validated rollout return or customer response is claim
 
 ## Limitations
 
-Only five outlets are represented, with outlet type and location partly confounded. Record-level and aggregate associations differ. Cluster variables, scaling, assignments, cluster-specific trend-line settings and stability require the final Tableau workbook or its model summaries for verification; the available descriptive workbook does not contain them. Non-significance is not proof of no effect; significance is not proof of causality. No held-out forecast, experimental lift or out-of-sample cluster validation is supplied. Dataset provenance and publication rights remain unresolved.
+Only five outlets are represented, with outlet type and location partly confounded. Record-level and aggregate associations differ. Cluster variables, scaling, assignments, cluster-specific trend-line settings and stability require the final Tableau workbook or its model summaries for verification; the available descriptive workbook does not contain them. Non-significance is not proof of no effect; significance is not proof of causality. No held-out forecast, experimental lift or out-of-sample cluster validation is supplied. Dataset provenance, observation period and units remain unverified. No redistribution right is asserted for the excluded workbooks or source documents.
 
-## Academic Context
+## Context and Data Note
 
-Spring 2026 Marketing Analytics group coursework using a supplied BigMart dataset. BigMart is a classroom case, not a client or employer. The final report, dated May 6, 2026, extends the earlier descriptive draft with multivariate charts, two Tableau clusters and proposed merchandising pilots. Clustering is exploratory segmentation, not a validated sales-prediction model.
+Prepared by Pamela Vilchez as an independent portfolio adaptation of Spring 2026 graduate Marketing Analytics group coursework using a supplied BigMart dataset. This version demonstrates retail analytics, aggregation, visualization and interpretation through aggregate findings, verified comparisons, recreated charts, scripts/checks and documentation. Raw data, original workbooks, reports and team/source files are excluded. BigMart is a classroom case, not a client or employer. The final report, dated May 6, 2026, extends the earlier descriptive draft with multivariate charts, two Tableau clusters and proposed merchandising pilots. Clustering is exploratory segmentation, not a validated sales-prediction model.
 
 ## My Contribution
 
-This is an independent portfolio adaptation prepared by Pamela Vilchez. Raw data, original team files and private source materials are excluded; the original group-work context is retained below.
-
-I completed data preparation, problem framing, descriptive analysis, visualizations and written analysis as part of graduate coursework. The academic report was submitted in a group context; this summary does not claim sole authorship of the full team submission. Required team attribution remains to be confirmed before public release. This portfolio version adds Python aggregate checks and recreated charts, clearly separated from the original Excel and Tableau analysis.
+I completed data preparation, problem framing, descriptive analysis, visualizations and written analysis as part of graduate coursework. The academic report was submitted in a group context; this summary does not claim sole authorship of the full team submission. This portfolio version adds Python aggregate checks and recreated charts, clearly separated from the original Excel and Tableau analysis.
 
 ## Selected Outputs
 

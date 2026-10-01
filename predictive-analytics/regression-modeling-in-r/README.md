@@ -71,13 +71,11 @@ The case shows how to choose a model form that fits the outcome and communicate 
 - No causal design, verified sampling frame or external validation is supplied.
 - Poisson regression assumes a suitable conditional mean/variance structure and independent observations. A portfolio Pearson dispersion calculation of approximately 1.08 is only a diagnostic, not proof that those assumptions hold.
 - The source imports were absent from the script and depended on objects already in the R session. The portfolio version repairs that dependency; it does not claim the original script ran standalone.
-- Dataset provenance, required course credit and any collaborator attribution remain subject to confirmation before public release.
+- Original dataset providers and collection designs remain unverified. Source datasets and individual fitted values are excluded; no dataset redistribution right is asserted.
 
-## Academic Context
+## Context and Data Note
 
-This was an individual coursework project or exercise using a supplied dataset or template. Raw data is excluded; this portfolio includes adapted analysis, summaries and aggregate outputs only.
-
-Completed or adapted from graduate Marketing Analytics coursework, Week 6 regression exercises. The supplied materials include class scripts and three teaching datasets. This is an academic modeling case, not client work or a deployed forecasting system.
+This was an individual graduate Marketing Analytics modeling exercise, Week 6 regression exercises, using supplied class scripts and teaching datasets. The portfolio includes adapted R code, aggregate coefficient/model summaries, model comparisons and documentation. Source datasets, original assignment files and individual fitted values are excluded. The supplied exercises are acknowledged as coursework; neither original data collection nor authorship of the underlying teaching methods is claimed. This is not client work or a deployed forecasting system.
 
 The named homework script includes all three model types, and the saved R workspace contains the corresponding fitted objects. Its logistic section contains only data attachment and name inspection, so **logistic regression is excluded as incomplete**.
 

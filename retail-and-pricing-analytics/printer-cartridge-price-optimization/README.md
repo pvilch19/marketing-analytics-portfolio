@@ -74,13 +74,11 @@ The case illustrates why maximizing a single product's margin can miss the value
 - Annual demand and repeat purchases are combined using the assignment's convention; acquisition timing is not modeled.
 - Several costs and the cartridge multiplier are repeated as constants in the source calculations rather than linked to one input cell. Source inputs should not be changed without checking those formulas.
 - Saved Solver settings and results are available, but no solver execution log or native rerun is supplied. The portfolio verifies the mathematical objectives independently.
-- Coursework-source attribution and the terms for sharing this adapted case summary remain to be confirmed; original assignments and raw workbooks are excluded.
+- The demand relationship and cost assumptions were supplied in coursework; they are not independently collected market evidence. The original workbook/template and source materials are excluded, and no redistribution right to those files is asserted.
 
-## Academic Context
+## Context and Data Note
 
-This was an individual coursework project or exercise using a supplied dataset or template. Raw data is excluded; this portfolio includes adapted analysis, summaries and aggregate outputs only.
-
-Completed or adapted from graduate Marketing Analytics coursework, Week 3: Price Optimization. The assignment uses a supplied demand relationship and cost assumptions. It is an educational model, not a client engagement or a pricing recommendation for a real printer manufacturer.
+This was an individual graduate Marketing Analytics pricing/modeling exercise, Week 3: Price Optimization, using a supplied demand relationship and cost assumptions. The portfolio includes an adapted summary of the pricing logic, verified formulas, modeled contribution results, assumptions and an aggregate visual only. The original workbook/template and source materials are excluded. The $20,000 increase is modeled contribution under those assumptions, not observed business performance. This is not client work or an implemented pricing decision.
 
 ## My Contribution
 

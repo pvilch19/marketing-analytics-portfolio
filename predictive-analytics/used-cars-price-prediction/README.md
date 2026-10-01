@@ -43,15 +43,13 @@ The exercise shows how pricing estimates can be evaluated against a simple bench
 
 ## Limitations
 
-One random holdout provides limited generalization evidence. There is no temporal or external validation, and vehicle IDs are unavailable to rule out repeated vehicles. Removing exact duplicates assumes redundant records. The linear model produces 128 negative test predictions and should not be used as a pricing rule. The forest still underestimates the highest-price group. Missing specifications and extreme kilometer values remain important quality concerns. Data access and source rights must be resolved before public release.
+One random holdout provides limited generalization evidence. There is no temporal or external validation, and vehicle IDs are unavailable to rule out repeated vehicles. Removing exact duplicates assumes redundant records. The linear model produces 128 negative test predictions and should not be used as a pricing rule. The forest still underestimates the highest-price group. Missing specifications and extreme kilometer values remain important quality concerns. Dataset provenance and units remain unverified. Rerunning requires authorized data access; no right to redistribute the excluded source files is asserted.
 
-## Academic Context
+## Context and Data Note
 
-This began as graduate group coursework on the Cars4U used-car pricing case. The source notebook contains cleaning, EDA and feature selection, ending before model fitting. Cars4U is a classroom case, not a client or employer.
+This analysis began in graduate group coursework on the supplied Cars4U pricing case. The portfolio is an independent adaptation prepared by Pamela Vilchez to demonstrate the full analysis workflow. It includes adapted code, aggregate outputs, metrics, charts and documentation only; raw data and original team/source files are excluded. The original full coursework submission is not claimed as solely my work. Cars4U is a classroom case, not a client or employer.
 
 ## My Contribution
-
-This is an independent portfolio adaptation prepared by Pamela Vilchez. Raw data, original team files and private source materials are excluded; the original group-work context is retained below.
 
 Prepared as an independent portfolio version of graduate group coursework. The original coursework covered cleaning, exploratory analysis and feature selection. The **Portfolio Extension: Regression Modeling** completes the modeling workflow with preprocessing pipelines, a fixed holdout, a baseline, two regression models and error analysis. The extension uses a fixed 2019 age reference and training-only imputation; the additional group cleaning notebook used 2026 and whole-dataset medians. These are portfolio methodology changes, not results from the original group submission.
 

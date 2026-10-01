@@ -33,4 +33,4 @@ Each project includes a **Selected Outputs** section with a small set of aggrega
 
 These case studies were completed or adapted from graduate coursework in Marketing Research & Analysis, with portfolio extensions identified in each project. Team contributions and source limitations remain explicit. They are not client engagements or employment projects.
 
-Raw datasets are excluded. Reviewers can explore notebooks, aggregate outputs and charts; rerunning requires authorized source data. Source rights and required attribution remain subject to confirmation. Each project explains its methods, findings and limitations.
+Raw datasets are excluded. Reviewers can explore notebooks, aggregate outputs and charts; rerunning requires authorized source data. Coursework and adaptation context is documented in each project. No redistribution rights are asserted for excluded source materials. Each project explains its methods, findings and limitations.
